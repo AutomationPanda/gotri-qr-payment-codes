@@ -1,7 +1,3 @@
-# --------------------------------------------------------------------------------
-# Listing 4.11
-# --------------------------------------------------------------------------------
-
 from runner import TestRunner
 from test_qrcodes import TestQRCodeGeneration
 from test_scan_path import TestQRCodeScanPath
