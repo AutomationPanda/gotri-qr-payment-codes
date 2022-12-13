@@ -130,3 +130,6 @@ dmypy.json
 
 # Generated QR codes
 payment_code.png
+
+# macOS
+.DS_Store
